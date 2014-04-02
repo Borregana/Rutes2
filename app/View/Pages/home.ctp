@@ -10,7 +10,6 @@
 if (!Configure::read('debug')):
 	throw new NotFoundException();
 endif;
-echo 'Hola Mundo';
 App::uses('Debugger', 'Utility');
 ?>
 <h2><?php echo __d('cake_dev', 'Release Notes for CakePHP %s.', Configure::version()); ?></h2>
