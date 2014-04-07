@@ -9,7 +9,7 @@ App::uses('AppModel', 'Model');
 class Usuario extends AppModel {
     public $name='Usuario';
 
-    public function beforeSave($options = array()) {
+    /*public function beforeSave($options = array()) {
         if (isset ($this->data['User']['password']) && $this->data['User']['password'] != ''){
             App::import('Component', 'Auth');
             $this->data['Usuario']['password'] = AuthComponent::password($this->data['User']['password']);
@@ -18,7 +18,7 @@ class Usuario extends AppModel {
             unset($this->data['Usuario']['password']);
         }
         return true;
-    }
+    }*/
 
     /**
      * Validation rules
@@ -67,7 +67,7 @@ class Usuario extends AppModel {
      *
      * @var array
      */
-    public $hasMany = array(
+    /*public $hasMany = array(
         'Ruta' => array(
             'className' => 'Ruta',
             'foreignKey' => 'usuario_id',
@@ -135,5 +135,5 @@ class Usuario extends AppModel {
             return TRUE;
         }
         return FALSE;
-    }
+    }*/
 }

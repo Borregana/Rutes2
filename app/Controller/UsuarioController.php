@@ -9,7 +9,6 @@
 App::uses('AppController', 'Controller');
 
 class UsuarioController extends AppController{
-    public $uses = array('Usuario');
     public $helpers = array('Html','Form');
 
     Public function index(){
@@ -18,8 +17,8 @@ class UsuarioController extends AppController{
         $list=$this->paginate(
             'Usuario'
         );
-        $this->set('usuario', $list);
         pr($list_users);
         die;
+        $this->set('usuario', $list);
     }
 }
