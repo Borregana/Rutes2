@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0672a55-cdde-420f-83ec-48c6dd992828" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/webroot/.htaccess" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Model/Usuario.php" afterPath="$PROJECT_DIR$/app/Model/Usuario.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controller/UsuarioController.php" afterPath="$PROJECT_DIR$/app/Controller/UsuarioController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/cake_toolbar_cachec57e837e7dcc731b11afedff5cd4999c" afterPath="$PROJECT_DIR$/app/tmp/cache/cake_toolbar_cachec57e837e7dcc731b11afedff5cd4999c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Config/core.php" afterPath="$PROJECT_DIR$/app/Config/core.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_ca" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_ca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_dev_ca" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_dev_ca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_debug_kit_ca" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_debug_kit_ca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_file_map" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_file_map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d0672a55-cdde-420f-83ec-48c6dd992828" name="Default" comment="" />
     <ignored path="Rutes.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +26,7 @@
       <file leaf-file-name="UsuarioController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Controller/UsuarioController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="377" selection-end="406" vertical-scroll-proportion="0.51141554" vertical-offset="0" max-vertical-offset="438">
+            <state line="19" column="8" selection-start="377" selection-end="406" vertical-scroll-proportion="0.3308715" vertical-offset="0" max-vertical-offset="677">
               <folding />
             </state>
           </provider>
@@ -214,7 +202,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rutes2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
   </component>
@@ -275,14 +263,23 @@
       <created>1396431925643</created>
       <updated>1396431925643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="intentos varios i frustants">
+      <created>1396860057573</created>
+      <updated>1396860057573</updated>
+    </task>
+    <task id="LOCAL-00005" summary="error.log&#10;">
+      <created>1396860091861</created>
+      <updated>1396860091861</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -297,7 +294,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -317,7 +313,9 @@
     </option>
     <MESSAGE value="Archivos varios y prueba" />
     <MESSAGE value="prueba&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="prueba&#10;" />
+    <MESSAGE value="intentos varios i frustants" />
+    <MESSAGE value="error.log&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="error.log&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -435,7 +433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Controller/UsuarioController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="377" selection-end="406" vertical-scroll-proportion="0.51141554" vertical-offset="0" max-vertical-offset="438">
+        <state line="19" column="8" selection-start="377" selection-end="406" vertical-scroll-proportion="0.3308715" vertical-offset="0" max-vertical-offset="677">
           <folding />
         </state>
       </provider>
